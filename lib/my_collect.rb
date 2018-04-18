@@ -6,6 +6,6 @@ def my_collect(collection)
     a.push(collection[i])
     i += 1
   end
-  a
+  return a
 end 
 
